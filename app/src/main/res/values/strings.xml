@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cultiveq</string>
+    <string name="app_tagline">Smarter Farming, Better Decisions</string>
+    <string name="version_badge">v2.0 — Database-Driven Release</string>
+    <string name="version_evolution">Evolved from v1.0 (Stateless) → v2.0 (3NF SQLite + AI)</string>
+    <string name="demo_farmer_cta">Load Demo Farmer</string>
+    <string name="nav_overview">Farm</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_weather">Weather</string>
+    <string name="nav_ai">AI Chat</string>
+    <string name="nav_pest">Pest Scan</string>
+    <string name="nav_finance">Finance</string>
+    <string name="nav_schema">ER Schema</string>
+</resources>

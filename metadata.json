@@ -1,0 +1,6 @@
+{
+  "name": "Cultiveq",
+  "description": "Cultiveq V2 — Smarter Farming, Better Decisions. Database-driven smart agriculture assistant with 3NF relational farm management, weather engine, AI chat, pest detection, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
